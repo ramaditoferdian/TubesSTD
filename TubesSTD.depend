@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1587389769 source:e:\tingkat 1\genap\tubes\std\tubesstd\child.cpp
+	"child.h"
+	<iostream>
+
+1587777288 source:e:\tingkat 1\genap\tubes\std\tubesstd\main.cpp
+	<iostream>
+	"parent.h"
+	"child.h"
+	"relasi_1_n.h"
+	<stdlib.h>
+
+1587028188 e:\tingkat 1\genap\tubes\std\tubesstd\parent.h
+	<iostream>
+	"child.h"
+
+1586770867 e:\tingkat 1\genap\tubes\std\tubesstd\child.h
+	<iostream>
+
+1587772894 source:e:\tingkat 1\genap\tubes\std\tubesstd\parent.cpp
+	"parent.h"
+	"relasi_1_n.h"
+	<iostream>
+
+1587760965 e:\tingkat 1\genap\tubes\std\tubesstd\relasi_1_n.h
+	"parent.h"
+	"child.h"
+
+1587772896 source:e:\tingkat 1\genap\tubes\std\tubesstd\relasi_1_n.cpp
+	"relasi_1_n.h"
+	<stdlib.h>
+	<limits>
+
